@@ -1,10 +1,18 @@
-# Presentations for categories of crystals
+# Code and Erratum for *Presentations for categories of crystals*
 
 This repository contains Sage/Python code accompanying the paper
 
 > David He and Daniel Tubbenhauer, *Presentations for categories of crystals*.
 
 The code enumerates the bottom-permutation-top bases and the local atom relations used in the paper.  It covers the classical types `A`, `B`, `C`, `D`, and type `G2`.  The repository also contains a rendered HTML list of the `G2` relations, since that list is too long to print comfortably in the paper.
+
+## Contact
+
+If you find any errors in the paper **please email me**:
+
+[dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
+
+Same goes for any errors related to this page.
 
 ## Requirements
 
@@ -159,3 +167,7 @@ If you use this code, please cite the accompanying paper:
   year = {2026}
 }
 ```
+
+## Erratum
+
+Empty so far.
