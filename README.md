@@ -161,10 +161,11 @@ in a browser to view the rendered `G2` relations.  The page uses MathJax from a 
 If you use this code, please cite the accompanying paper:
 
 ```bibtex
-@misc{HeTubbenhauerCrystalPresentations,
-  author = {He, David and Tubbenhauer, Daniel},
-  title = {Presentations for categories of crystals},
-  year = {2026}
+@article {HeTu-crystal,
+AUTHOR = {He, D. and Tubbenhauer, D.},
+TITLE = {Presentations for categories of crystals},
+YEAR = {2026},
+URL = {https://arxiv.org/abs/2301.00885},
 }
 ```
 
